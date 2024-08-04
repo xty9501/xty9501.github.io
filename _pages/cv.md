@@ -23,11 +23,11 @@ Work experience
 
 * May 2020- May 2022: SDE & Data Scientist
   * Huawei
-
-* Winter 2017: Data Analyst(Internship)
+    
+* Winter 2017: Data Analyst - Internship
   * QIanhai Reinsurance Co., Ltd
-  * 
-* Spring 2016: Quantitative Analyst(Internship)
+    
+* Spring 2016: Quantitative Analyst - Internship
   * China Galaxy Securities
     
   
@@ -45,12 +45,6 @@ Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
