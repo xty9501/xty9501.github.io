@@ -16,7 +16,7 @@ I received my B.Math(Hons) in Statistics from the University of Waterloo in 2017
 - Lossy Compression
 - Deep Learning
 - Data Mining
-- data visualization
+- Data Visualization
 
 
 
