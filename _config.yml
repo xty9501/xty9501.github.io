@@ -12,7 +12,7 @@ title                    : "Mingze's Homepage"
 title_separator          : "-"
 name                     : &name "Mingze Xia"
 description              : &description "Ph.D student at UKY"
-url                      : https://xty9501.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://xty9501.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xty9501/xty9501.github.io"
 
