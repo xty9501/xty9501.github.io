@@ -10,7 +10,7 @@ main:
     url: /cv/
     
   - title: "Services"
-    url: /pages/services.md
+    url: /pages/services
     
   - title: "Guide"
     url: /markdown/
