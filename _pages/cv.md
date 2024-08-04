@@ -29,17 +29,6 @@ Work experience
     
 * Spring 2016: Quantitative Analyst - Internship
   * China Galaxy Securities
-    
-  
-Skills
-======
-* C/C++
-* Python
-* Java
-* Spark
-* SQL
-* Elastic Stack
-* Ruby
 
 Publications
 ======
@@ -53,6 +42,19 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service & Awards
 ======
-* Currently signed in to 43 different slack teams
+* SC'23 - Student Volunteer
+* ICDE'24 - NSF Travel Award
+* SC'24 - Student Volunteer
+
+Skills
+======
+* C/C++
+* Python
+* Java
+* Spark
+* SQL
+* Elastic Stack
+* Ruby
+
