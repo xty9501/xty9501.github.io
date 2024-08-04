@@ -1,8 +1,8 @@
 ---
 title: "Preserving Topological Feature with Sign-of-Determinant Predicates in Lossy Compression: A Case Study of Vector Field Critical Points"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/icde24
+excerpt:
 date: 2024-05-13
 venue: 'Proceedings of IEEE International Conference on Data Engineering'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
