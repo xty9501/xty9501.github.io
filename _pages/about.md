@@ -24,7 +24,7 @@ I received my B.Math(Hons) in Statistics from the [University of Waterloo](https
 Latest News
 ------
 03/2025: One paper has been accepted in ICDE'25.  
-12/2025: Two papers have been accepted in IPDPS'25(one has been nominated for the Best Paper Award).  
+12/2024: Two papers have been accepted in IPDPS'25(one has been nominated for the Best Paper Award).  
 12/2023: My first paper has been accepted in ICDE'24.  
 
 
