@@ -44,9 +44,10 @@ Teaching
   
 Service & Awards
 ======
-* SC'23 - Student Volunteer
-* ICDE'24 - NSF Travel Award
+* ICDE'25 - Student Travel Award
 * SC'24 - Student Volunteer
+* ICDE'24 - NSF Travel Award
+* SC'23 - Student Volunteer
 
 Skills
 ======
