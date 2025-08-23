@@ -42,12 +42,17 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service & Awards
+Services & Awards
 ======
 * ICDE'25 - Student Travel Award
 * SC'24 - Student Volunteer
 * ICDE'24 - NSF Travel Award
 * SC'23 - Student Volunteer
+
+Reviewer/Sub-reviewer
+======
+* IEEE Transactions on Parallel and Distributed Systems (TPDS)
+* IEEE International Conference on Data Mining (ICDM) 
 
 Skills
 ======
