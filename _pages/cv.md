@@ -11,13 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science,University of Kentucky, 2027 (expected)
+* Ph.D in Computer Science, Oregon State University, 2027 (expected)
 * M.S. in Data Science, The University of Melbourne, 2022
 * B.Math. in Statistics, University of Waterloo, 2017
 
 Work experience
 ======
-* May 2024 - Aug 2024: Research Fellow in Data Science
+* Aug 2022 - Aug 2025: Teaching Assistant & Research Assistant
+  * University of Kentucky
+
+* May 2022 - Aug 2022: Research Fellow in Data Science
   * Duke Kunshan University
   * Supervisor: Prof. Shixin Xu
 
@@ -25,7 +28,7 @@ Work experience
   * Huawei
     
 * Winter 2017: Data Analyst - Internship
-  * QIanhai Reinsurance Co., Ltd
+  * Qianhai Reinsurance Co., Ltd
     
 * Spring 2016: Quantitative Analyst - Internship
   * China Galaxy Securities
