@@ -23,7 +23,7 @@ I received my B.Math(Hons) in Statistics from the [University of Waterloo](https
 
 Latest News
 ------
-08/2025: I will move to Oregon State University.
+08/2025: I will move to Oregon State University.  
 05/2025: Our paper "Enabling Efficient Error-controlled Lossy Compression for Unstructured Scientific Data" has been selected as <b>IPDPS'25 Best Paper Award</b>.  
 03/2025: One paper has been accepted in ICDE'25.  
 12/2024: Two papers have been accepted in IPDPS'25(one has been nominated for the Best Paper Award).  
