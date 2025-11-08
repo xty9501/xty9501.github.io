@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Mingze's Homepage"
 title_separator          : "-"
 name                     : &name "Mingze Xia"
-description              : &description "Ph.D student at UKY"
+description              : &description "Ph.D student at Oregon State University"
 url                      : "https://xty9501.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xty9501/xty9501.github.io"
@@ -25,10 +25,10 @@ author:
   name             : "Mingze Xia"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D student"
-  location         : "Lexington, KY"
-  employer         : "University of Kentucky"
+  location         : "Corvallis, OR"
+  employer         : "Oregon State University"
   uri              : # URL
-  email            : "mingze.xia@uky.edu" 
+  email            : "xiami@oregonstate.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
