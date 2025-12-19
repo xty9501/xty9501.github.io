@@ -35,7 +35,7 @@ Latest News
 05/2025: Our paper "Enabling Efficient Error-controlled Lossy Compression for Unstructured Scientific Data" was selected as <b>IPDPS'25 Best Paper Award</b>.  
 03/2025: One paper was accepted in ICDE'25.  
 12/2024: Two papers were accepted in IPDPS'25(one has been nominated for the Best Paper Award).  
-12/2023: My first paper was accepted in ICDE'24.
+12/2023: My first paper was accepted in ICDE'24.  
 09/2022: I started my Ph.D. studies in Computer Science at the University of Kentucky.
 
 
