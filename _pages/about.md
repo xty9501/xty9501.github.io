@@ -33,10 +33,11 @@ Latest News
 12/2025: Our paper "pMSz: A Distributed Parallel Algorithm for Correcting Morse-Smale Segmentations for Lossy Compression" was accepted in IPDPS'26.  
 12/2025: Our paper "Mitigating Artifacts in Pre-quantization Based Scientific Data Compressors with Quantization-aware Interpolation" was accepted in IPDPS'26.  
 08/2025: I will move to Oregon State University.  
-05/2025: Our paper "Enabling Efficient Error-controlled Lossy Compression for Unstructured Scientific Data" was selected as <b>IPDPS'25 Best Paper Award</b>.  
+05/2025: Our paper "Enabling Efficient Error-controlled Lossy Compression for Unstructured Scientific Data" was selected as <b>IPDPS'25 Best Paper Award<b>.  
 03/2025: One paper was accepted in ICDE'25.  
 12/2024: Our paper "Enabling Efficient Error-controlled Lossy Compression for Unstructured Scientific Data" was accepted in IPDPS'25 (nominated for the Best Paper Award).  
 12/2024: Our paper "Improving the Efficiency of Interpolation-Based Scientific Data Compressors with Adaptive Quantization Index Prediction" was accepted in IPDPS'25.  
+04/2024: I received the <b>Outstanding Student Paper Award<b> from the Department of Computer Science, University of Kentucky.  
 12/2023: My first paper was accepted in ICDE'24.  
 09/2022: I started my Ph.D. studies in Computer Science at the University of Kentucky.  
 
