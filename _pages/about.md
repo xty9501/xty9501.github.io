@@ -23,13 +23,13 @@ I received my B.Math(Hons) in Statistics from the [University of Waterloo](https
 
 **Paper(s) Under Review**
 
-- 1 * ICDE'26
 - 1 * TVCG
 
 
 
 Latest News
 ------
+12/2025: One paper was accepted in ICDE'26.  
 12/2025: Our paper "pMSz: A Distributed Parallel Algorithm for Correcting Morse-Smale Segmentations for Lossy Compression" was accepted in IPDPS'26.  
 12/2025: Our paper "Mitigating Artifacts in Pre-quantization Based Scientific Data Compressors with Quantization-aware Interpolation" was accepted in IPDPS'26.  
 08/2025: I will move to Oregon State University.  
