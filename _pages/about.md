@@ -41,5 +41,4 @@ Latest News
 12/2023: My first paper was accepted in ICDE'24.  
 09/2022: I started my Ph.D. studies in Computer Science at the University of Kentucky.  
 
-{% include visitor-map.html %}
 
