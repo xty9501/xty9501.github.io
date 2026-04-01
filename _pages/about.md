@@ -12,7 +12,7 @@ Hello, my name is Mingze Xia(夏铭泽), I am pursuing a Ph.D. in Computer Scien
 
 I received my B.Math(Hons) in Statistics from the [University of Waterloo](https://uwaterloo.ca/math/){:target="_blank"} in 2017 and my Master’s degree in Data Science from [The University of Melbourne](https://www.unimelb.edu.au/){:target="_blank"} in 2019. Previously, I worked as a Research Fellow at [Duke Kunshan University](https://www.dukekunshan.edu.cn/){:target="_blank"} and as a Data Scientist at Huawei from 2020 to 2022. My research interests focus on lossy compression, deep learning, and data mining.
 
-<strong>I am currently seeking internship opportunities for [Summer 2026] in both industry and academia.</strong>
+<strong>I am currently seeking internship opportunities for 2027 in both industry and academia.</strong>
 
 **Research Interests**
 
@@ -24,6 +24,7 @@ I received my B.Math(Hons) in Statistics from the [University of Waterloo](https
 **Paper(s) Under Review**
 
 - 1 * TVCG
+- 1 * VIS
 
 
 
