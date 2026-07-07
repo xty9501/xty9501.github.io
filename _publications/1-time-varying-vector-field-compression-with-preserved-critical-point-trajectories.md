@@ -9,4 +9,4 @@ citation: 'Xia, Mingze; Li, Yuxiao; Jiao, Pu; Wang, Bei; Liang, Xin; Guo, Hanqi 
 ---
 <b>Xia, Mingze</b>; Li, Yuxiao; Jiao, Pu; Wang, Bei; Liang, Xin; Guo, Hanqi
 
-Recommended citation: Xia, Mingze; Li, Yuxiao; Jiao, Pu; Wang, Bei; Liang, Xin; Guo, Hanqi (2026). "Time-varying Vector Field Compression with Preserved Critical Point Trajectories." <i>2026 IEEE 42nd International Conference on Data Engineering (ICDE)</i>.
+Xia, Mingze; Li, Yuxiao; Jiao, Pu; Wang, Bei; Liang, Xin; Guo, Hanqi (2026). "Time-varying Vector Field Compression with Preserved Critical Point Trajectories." <i>2026 IEEE 42nd International Conference on Data Engineering (ICDE)</i>.

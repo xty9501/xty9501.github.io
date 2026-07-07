@@ -9,4 +9,4 @@ citation: 'Xia, Mingze; Di, Sheng; Cappello, Franck; Jiao, Pu; Zhao, Kai; Liu, J
 ---
 <b>Xia, Mingze</b>; Di, Sheng; Cappello, Franck; Jiao, Pu; Zhao, Kai; Liu, Jinyang; Wu, Xuan; Liang, Xin; Guo, Hanqi
 
-Recommended citation: Xia, Mingze; Di, Sheng; Cappello, Franck; Jiao, Pu; Zhao, Kai; Liu, Jinyang; Wu, Xuan; Liang, Xin; Guo, Hanqi (2024). "Preserving topological feature with sign-of-determinant predicates in lossy compression: A case study of vector field critical points." <i>2024 IEEE 40th International Conference on Data Engineering (ICDE)</i>. pp. 4979-4992. IEEE.
+Xia, Mingze; Di, Sheng; Cappello, Franck; Jiao, Pu; Zhao, Kai; Liu, Jinyang; Wu, Xuan; Liang, Xin; Guo, Hanqi (2024). "Preserving topological feature with sign-of-determinant predicates in lossy compression: A case study of vector field critical points." <i>2024 IEEE 40th International Conference on Data Engineering (ICDE)</i>. pp. 4979-4992. IEEE.

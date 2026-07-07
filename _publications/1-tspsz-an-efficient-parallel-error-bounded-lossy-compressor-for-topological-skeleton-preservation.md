@@ -9,4 +9,4 @@ citation: 'Xia, Mingze; Wang, Bei; Li, Yuxiao; Jiao, Pu; Liang, Xin; Guo, Hanqi 
 ---
 <b>Xia, Mingze</b>; Wang, Bei; Li, Yuxiao; Jiao, Pu; Liang, Xin; Guo, Hanqi
 
-Recommended citation: Xia, Mingze; Wang, Bei; Li, Yuxiao; Jiao, Pu; Liang, Xin; Guo, Hanqi (2025). "TspSZ: An Efficient Parallel Error-Bounded Lossy Compressor for Topological Skeleton Preservation." <i>2025 IEEE 41st International Conference on Data Engineering (ICDE)</i>. pp. 3682-3695. IEEE Computer Society.
+Xia, Mingze; Wang, Bei; Li, Yuxiao; Jiao, Pu; Liang, Xin; Guo, Hanqi (2025). "TspSZ: An Efficient Parallel Error-Bounded Lossy Compressor for Topological Skeleton Preservation." <i>2025 IEEE 41st International Conference on Data Engineering (ICDE)</i>. pp. 3682-3695. IEEE Computer Society.

@@ -9,4 +9,4 @@ citation: 'Jiao, Pu; Di, Sheng; Tian, Jiannan; Xia, Mingze; Wu, Xuan; Zhang, Yan
 ---
 Jiao, Pu; Di, Sheng; Tian, Jiannan; <b>Xia, Mingze</b>; Wu, Xuan; Zhang, Yang; Liang, Xin; Cappello, Franck
 
-Recommended citation: Jiao, Pu; Di, Sheng; Tian, Jiannan; Xia, Mingze; Wu, Xuan; Zhang, Yang; Liang, Xin; Cappello, Franck (2026). "Mitigating Artifacts in Pre-quantization Based Scientific Data Compressors with Quantization-aware Interpolation" <i>2026 IEEE International Parallel and Distributed Processing Symposium (IPDPS)</i>.
+Jiao, Pu; Di, Sheng; Tian, Jiannan; Xia, Mingze; Wu, Xuan; Zhang, Yang; Liang, Xin; Cappello, Franck (2026). "Mitigating Artifacts in Pre-quantization Based Scientific Data Compressors with Quantization-aware Interpolation" <i>2026 IEEE International Parallel and Distributed Processing Symposium (IPDPS)</i>.

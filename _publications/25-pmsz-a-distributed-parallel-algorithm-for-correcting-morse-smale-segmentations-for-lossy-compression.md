@@ -9,4 +9,4 @@ citation: 'Li, Yuxiao; Xia, Mingze; Liang, Xin; Wang, Bei; Underwood, Robert; Di
 ---
 Li, Yuxiao; <b>Xia, Mingze</b>; Liang, Xin; Wang, Bei; Underwood, Robert; Di, Sheng; Sharma, Hemant; Beniwal, Dishant; Cappello, Franck; Guo, Hanqi
 
-Recommended citation: Li, Yuxiao; Xia, Mingze; Liang, Xin; Wang, Bei; Underwood, Robert; Di, Sheng; Sharma, Hemant; Beniwal, Dishant; Cappello, Franck; Guo, Hanqi (2026). "pMSz: A Distributed Parallel Algorithm for Correcting Morse-Smale Segmentations for Lossy Compression" <i>2026 IEEE International Parallel and Distributed Processing Symposium (IPDPS)</i>.
+Li, Yuxiao; Xia, Mingze; Liang, Xin; Wang, Bei; Underwood, Robert; Di, Sheng; Sharma, Hemant; Beniwal, Dishant; Cappello, Franck; Guo, Hanqi (2026). "pMSz: A Distributed Parallel Algorithm for Correcting Morse-Smale Segmentations for Lossy Compression" <i>2026 IEEE International Parallel and Distributed Processing Symposium (IPDPS)</i>.

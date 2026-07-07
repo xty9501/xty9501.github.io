@@ -57,7 +57,7 @@ def html_escape(text):
 
 # ## Creating the markdown files
 # 
-# This is where the heavy lifting is done. This loops through all the rows in the TSV dataframe, then starts to concatentate a big string (```md```) that contains the markdown for each type. It does the YAML metadata first, then does the description for the individual page. If you don't want something to appear (like the "Recommended citation")
+# This is where the heavy lifting is done. This loops through all the rows in the TSV dataframe, then starts to concatentate a big string (```md```) that contains the markdown for each type. It does the YAML metadata first, then does the description for the individual page.
 
 # In[5]:
 
@@ -98,11 +98,10 @@ for row, item in publications.iterrows():
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
         
-    md += "\nRecommended citation: " + item.citation
+    md += "\n" + item.citation
     
     md_filename = os.path.basename(md_filename)
        
     with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
-
 
