@@ -21,14 +21,9 @@ I received my B.Math(Hons) in Statistics from the [University of Waterloo](https
 - Data Mining
 - Data Visualization
 
-**Paper(s) Under Review**
-
-- 1 * VIS
-
-
-
 Latest News
 ------
+07/2026: Our paper "EXaCTz: Guaranteed Extremum Graph and Contour Tree Preservation for Distributed and GPU-Parallel Lossy Compression" was accepted to IEEE TVCG (VIS'26)!   
 04/2026: One paper was accepted by IEEE TVCG.   
 02/2026: One paper was accepted to ICDE'26!   
 12/2025: Our paper "pMSz: A Distributed Parallel Algorithm for Correcting Morse-Smale Segmentations for Lossy Compression" was accepted to IPDPS'26.  
@@ -41,5 +36,4 @@ Latest News
 04/2024: I received the <b>Outstanding Student Paper Award</b> from the Department of Computer Science, University of Kentucky.  
 12/2023: My first paper was accepted to ICDE'24.  
 09/2022: I started my Ph.D. studies in Computer Science at the University of Kentucky.  
-
 
