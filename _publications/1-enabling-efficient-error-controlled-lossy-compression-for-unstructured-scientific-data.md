@@ -1,6 +1,7 @@
 ---
 title: "Enabling Efficient Error-Controlled Lossy Compression for Unstructured Scientific Data"
 collection: publications
+award: Best Paper
 permalink: /publication/2025/1/1-enabling-efficient-error-controlled-lossy-compression-for-unstructured-scientific-data
 excerpt: 'Wu, Xuan; Di, Sheng; Ren, Congrong; Jiao, Pu; <b>Xia, Mingze</b>; Wang, Cheng; Guo, Hanqi; Liang, Xin; Cappello, Franck'
 date: 2025/1/1

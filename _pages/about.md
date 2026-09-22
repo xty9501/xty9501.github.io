@@ -23,10 +23,14 @@ I received my B.Math(Hons) in Statistics from the [University of Waterloo](https
 
 **Paper(s) Under Review**
 
+- 1 * WSDM'27
+- 2 * ICLR'27
+- 1 * DCC'27
 - PPoPP'27  
 
 Latest News
 ------
+09/2026: Our paper "EXaCTz: Guaranteed Extremum Graph and Contour Tree Preservation for Distributed and GPU-Parallel Lossy Compression" received the <b>IEEE VIS'26 Best Paper Award</b>!<br />
 07/2026: Our paper "EXaCTz: Guaranteed Extremum Graph and Contour Tree Preservation for Distributed and GPU-Parallel Lossy Compression" was accepted to IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2026)!   
 04/2026: One paper was accepted by IEEE TVCG.   
 02/2026: One paper was accepted to ICDE'26!   

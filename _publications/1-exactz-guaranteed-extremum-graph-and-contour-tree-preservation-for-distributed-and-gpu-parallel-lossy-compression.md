@@ -1,6 +1,7 @@
 ---
 title: "EXaCTz: Guaranteed Extremum Graph and Contour Tree Preservation for Distributed and GPU-Parallel Lossy Compression"
 collection: publications
+award: Best Paper
 permalink: /publication/2026/4/1-exactz-guaranteed-extremum-graph-and-contour-tree-preservation-for-distributed-and-gpu-parallel-lossy-compression
 excerpt: 'Li, Yuxiao; <b>Xia, Mingze</b>; Liang, Xin; Wang, Bei; Guo, Hanqi'
 date: 2026/4/1
